@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootswatch: Simplex</title>
+    <title>8GAG</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <link rel="stylesheet" href="/css/bsp.css" media="screen">
@@ -105,6 +105,9 @@
             <ul class="list-unstyled">
               <li class="pull-right"><a href="#top">Back to top</a></li>
               <li><a href="https://github.com/zabka14/">GitHub</a></li>
+              <li>
+                <a href="/admin">Admin panel</a>
+              </li>
             </ul>
             <p>
               Made with love :) Go checkout adNNNN GitHub for some cool gifs in action ;)
